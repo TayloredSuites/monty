@@ -11,7 +11,7 @@ This repo contains the basics of stacks, queues, LIFO, FIFO and the bizzare byte
 -  C standard library
 -  No more than 5 functions per file
 
-[Libraries courtetsy Sitesbay.com](https://www.sitesbay.com/cprogramming/images/header-files-in-c.png)
+1[Libraries courtesy Sitesbay.com](https://www.sitesbay.com/cprogramming/images/header-files-in-c.png)
 
 - ## Findings / Observations
 
