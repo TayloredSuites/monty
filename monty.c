@@ -1,3 +1,5 @@
+BRAINSTORMING
+
 if (argv < 1 || argv == NULL)
 {
 	fprintf("USAGE: monty ./monty.c\n");
