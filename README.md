@@ -6,7 +6,7 @@ This repo contains the basics of stacks, queues, LIFO, FIFO and the bizzare byte
 
 - ## Required Software / Hardware
 
--  Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=c89`
+-  Ubuntu 20.04 LTS using `gcc`, using the options `gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty`
 -  [Betty linter](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl)
 -  C standard library
 -  No more than 5 functions per file
