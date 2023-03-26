@@ -1,4 +1,7 @@
-BRAINSTORMING
+/**
+ * BRAINSTORMING - topof stack ndicated by pointer
+ * ie head = top (ptrs)
+ */
 
 if (argv < 1 || argv == NULL)
 {
